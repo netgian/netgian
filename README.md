@@ -1,5 +1,7 @@
 ### Yo what's up 👋
 
+I am a student, currently 17
+
 - 📫 How to reach me: gianglen@protonmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=netgian&show_icons=true&theme=tokyonight">
