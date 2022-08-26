@@ -2,20 +2,9 @@
 
 - 📫 You can reach me at: gianglen@protonmail.com
 
-<style>
-  .img1 {
-      float:left;
-      width:30%;
-      height:100px;
-  }
 
-  .img2 {
-      float:right;
-      width:60%;
-      height:100px;
-  }
-</style>
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=netgian&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netgian&show_icons=true&theme=tokyonight&layout=compact&langs_count=8">
+</p>
 
-
-<img id="img1" src="https://github-readme-stats.vercel.app/api?username=netgian&show_icons=true&theme=tokyonight">
-<img id="img2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netgian&show_icons=true&theme=tokyonight&layout=compact&langs_count=8">
