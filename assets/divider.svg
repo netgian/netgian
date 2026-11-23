@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="24" viewBox="0 0 1280 24" role="img" aria-label="divider">
+<title>divider</title>
+<style>.pulse{animation:pulse 2.4s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs>
+<linearGradient id="g" x1="0" x2="1">
+<stop offset="0" stop-color="#a78bfa" stop-opacity="0"/>
+<stop offset=".5" stop-color="#a78bfa"/>
+<stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect y="11.5" width="1280" height="1" fill="url(#g)" opacity=".45"/>
+<rect class="pulse" x="636" y="8" width="8" height="8" fill="#a78bfa" transform="rotate(45 640 12)"/>
+</svg>

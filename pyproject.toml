@@ -1,0 +1,10 @@
+[tool.black]
+line-length = 100
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+# SVG/CSS markup lives in long string literals; splitting them hurts readability.
+ignore = ["E501"]
